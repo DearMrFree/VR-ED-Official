@@ -1,25 +1,19 @@
 {
   "name": "vr-ed",
   "version": "1.0.0",
-  "description": "\"# VR-ED-Official\"",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "description": "VR School at Stanford",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DearMrFree/VR-ED-Official.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DearMrFree/VR-ED-Official/issues"
-  },
-  "homepage": "https://github.com/DearMrFree/VR-ED-Official#readme",
   "dependencies": {
     "@vercel/analytics": "^1.5.0",
     "next": "^15.1.7",
