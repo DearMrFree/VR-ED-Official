@@ -1,0 +1,29 @@
+{
+  "name": "vr-ed",
+  "version": "1.0.0",
+  "description": "\"# VR-ED-Official\"",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DearMrFree/VR-ED-Official.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DearMrFree/VR-ED-Official/issues"
+  },
+  "homepage": "https://github.com/DearMrFree/VR-ED-Official#readme",
+  "dependencies": {
+    "@vercel/analytics": "^1.5.0",
+    "next": "^15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
